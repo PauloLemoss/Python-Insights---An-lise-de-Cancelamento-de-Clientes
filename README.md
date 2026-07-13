@@ -53,3 +53,13 @@ Análise exploratória com Pandas.
 Visualização de dados com Plotly.
 
 Transformação de dados em decisões de negócio.
+
+## Estrutura do Projeto
+
+```text
+PythonInsights/
+│
+├── inicial.ipynb        # Notebook com toda a análise de dados
+├── cancelamentos.csv    # Base de dados utilizada
+└── README.md            # Documentação do projeto
+```
