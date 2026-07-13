@@ -1,7 +1,3 @@
-# Python-Insights---Análise-de-Cancelamento-de-Clientes
-Análise de churn de clientes utilizando Python, Pandas e Plotly para identificar os principais fatores de cancelamento e propor ações para reduzir a perda de clientes.
-
-
 
 # Python Insights - Análise de Cancelamento de Clientes
 
@@ -10,6 +6,7 @@ Projeto desenvolvido em Python para identificar os principais fatores relacionad
 # Objetivo
 
 Analisar uma base com mais de 800 mil clientes e descobrir quais características estão mais associadas ao cancelamento do serviço.
+Análise de churn de clientes utilizando Python, Pandas e Plotly para identificar os principais fatores de cancelamento e propor ações para reduzir a perda de clientes.
 
 # Tecnologias utilizadas
 
